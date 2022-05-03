@@ -1,0 +1,5 @@
+email=sofienamri0010@gmail.com
+password=Sofiencsilla0010!
+profile=My Workaway account
+main_page=Workaway.info the site for cultural exchange. Gap year volunteer for food and accommodation whilst travelling abroad.
+name_image_upload=sof.jpg
